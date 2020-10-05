@@ -6,7 +6,7 @@
 
 _Currently working on:_ Sourcing New clients/projects, writing/recording a udemy course ([Link to Zero To Full Stack](#), releasing Jan 2021), and building a few full stack projects of my own.\_
 
-_Resume_:
+_Resume_:[KyleBennettResume.pdf](https://github.com/BennEntterprise/kylebennett/blob/main/KBennettResume.pdf)
 
 _My Ideal Role looks like_:
 
