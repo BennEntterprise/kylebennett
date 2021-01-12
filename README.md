@@ -2,7 +2,7 @@
 
 **Build the stuff that needs to be built.**
 
-**While you're here, check out [insert-project-here](#). It's my most active project**
+<!-- **While you're here, check out [insert-project-here](#). It's my most active project** -->
 
 _Currently working on:_
 
@@ -14,8 +14,8 @@ _Resume/Work_:
 
 - [KyleBennettResume.pdf](https://github.com/BennEntterprise/kylebennett/blob/main/KBennettResume.pdf)
 - [Github Repositories](https://github.com/BennEntterprise)
-  _My Ideal Role looks like_:
 
+_My Ideal Role looks like_:
 A job where I can work with a team for the design, development, deployment, and support phases of a project.
 
 _How you can reach me_:
